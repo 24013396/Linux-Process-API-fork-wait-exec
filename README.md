@@ -1,3 +1,6 @@
+
+NAME: SHAIK HAZEEDMASTHAN
+REG NO: 212224040304
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
